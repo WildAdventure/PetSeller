@@ -1,0 +1,5 @@
+name: PetSeller
+main: com.gmail.filoghost.petseller.PetSeller
+version: 1.0
+depend: [Vault, WildCommons]
+softdepend: [EchoPet, SonarPet]
